@@ -5,6 +5,7 @@ export { toolRegistry, API_CONFIG } from "./config.js";
 import "./webSearch.js";
 import "./researchPaperSearch.js";
 import "./twitterSearch.js";
+import "./websetResearch.js"; // Import the new WebSet tool
 
 // When adding a new tool, import it here
-// import "./newTool.js"; 
+// import "./newTool.js";
